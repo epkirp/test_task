@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="jeans">Джинсы</string>
+    <string name="products_found">Найдено: %1$d товаров</string>
+    <string name="NEW">NEW</string>
+    <string name="price">%1$s Р</string>
+    <string name="item_added_to_favorites">Товар добавлен в избранное</string>
+    <string name="something_went_wrong">Что-то пошло не так</string>
+    <string name="add_to_cart">Добавить в корзину</string>
+    <string name="product_added_to_cart">Товар добавлен в корзину</string>
+    <string name="found_goods">Найдено товаров</string>
+</resources>
